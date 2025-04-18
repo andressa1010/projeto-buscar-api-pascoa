@@ -73,7 +73,7 @@ export default function Formulario() {
          <TituloFormulario>
          <h2>Você está encomendando: {produto.nome}</h2>
           <img
-            src={`http://localhost:3001/${produto.imagem}`}
+            src={`https://api-pascoa.onrender.com/${produto.imagem}`}
             alt={produto.nome}
             style={{
               width: "200px",

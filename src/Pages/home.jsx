@@ -29,7 +29,7 @@ const Home = () => {
               produto.map((produto)=>(
                  <div key={produto.id} className="produto">
                     <h2> {produto.nome} </h2>
-                    <img src={`http://localhost:3001${produto.imagem}`} 
+                    <img src={`https://api-pascoa.onrender.com${produto.imagem}`} 
                     alt={produto.nome}/>
                     <p>{produto.price} </p>
                     <p> {produto.descricao} </p>
