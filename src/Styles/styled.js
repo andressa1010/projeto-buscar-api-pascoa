@@ -31,6 +31,10 @@ export const ContainerProdutos = styled.div`
     background-color: #4B251C;
     color: #ffff;
     border-radius: 10px;
+
+    @media (max-width: 360px){
+      font-size: 12px;
+    }
   }
 
   @media (max-width: 432px){
