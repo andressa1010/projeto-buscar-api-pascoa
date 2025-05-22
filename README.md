@@ -35,3 +35,6 @@ Layout responsivo e intuitivo.
 
 ![projeto-pascoa](https://github.com/user-attachments/assets/277e5455-9173-4ce2-8c50-0418b0d11c8f)
 
+💻 Desenvolvido por 
+Andressa Nunes Linkdin : https://www.linkedin.com/in/andressa-nunes-silva/
+
